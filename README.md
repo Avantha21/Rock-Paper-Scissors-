@@ -1,5 +1,7 @@
 # Rock Paper Scissors 
-Classic Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play against computer with smooth animations.
+This Rock, Paper, Scissors game, crafted with HTML, CSS, and JavaScript, brings the classic game to life in a digital format. It offers an engaging user experience, allowing players to select their choice and compete against the CPU.
+
+
 
 <img width="538" height="429" alt="Screenshot 2026-02-26 at 4 38 01 PM" src="https://github.com/user-attachments/assets/eba484b2-697d-4614-90be-c9f4897a0d6a" />
 
