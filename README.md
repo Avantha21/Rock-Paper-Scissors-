@@ -13,7 +13,7 @@ This Rock, Paper, Scissors game, crafted with HTML, CSS, and JavaScript, brings 
 - Responsive design
 - User-friendly interface
 
-# How to Play 🎯
+# How to Play 🕹️
 - Click on Rock, Paper, or Scissors
 - Computer randomly selects its move
 - Winner is displayed immediately
